@@ -1,0 +1,16 @@
+.image {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-image: url("mps8085.jpg");
+  background-size: cover; /* Cover the entire viewport */
+  background-position: center; /* Center the background image */
+  background-repeat: no-repeat; /* Do not repeat the background image */
+}
+#wrapper {
+  position: fixed;
+  bottom: 0%;
+  right: 0%;
+}
